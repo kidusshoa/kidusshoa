@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidusshoa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusshoa&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kidusshoa&theme=dracula)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kidusshoa&theme=dracula)
 
-![GitHub Contribution Snake](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=kidusshoa)
+
+![GitHub Contribution Snake](https://github.com/kidusshoa/kidusshoa/blob/output/github-contribution-grid-snake.svg)
+
