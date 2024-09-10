@@ -2,7 +2,6 @@
 
 I'm a developer passionate about creating great user experiences and building efficient, scalable applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=kidusshoa)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidusshoa&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kidusshoa&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusshoa&layout=compact&theme=radical)
@@ -26,8 +25,5 @@ I'm a developer passionate about creating great user experiences and building ef
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 
 
-### Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
