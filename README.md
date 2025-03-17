@@ -4,7 +4,7 @@ I'm a developer passionate about creating great user experiences and building ef
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidusshoa&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kidusshoa&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusshoa&layout=compact&theme=radical&cache_seconds=1800
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusshoa&layout=compact&theme=radical&cache_seconds=1800&langs_count=9)
 )
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kidusshoa&theme=dracula)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananser&label=Profile%20views&color=0e75b6&style=flat" alt="ananser" /> </p>
