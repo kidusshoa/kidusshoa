@@ -2,17 +2,24 @@
 
 I'm a developer passionate about creating great user experiences and building efficient, scalable applications.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidusshoa&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kidusshoa&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusshoa&layout=compact&theme=radical&cache_seconds=1800&langs_count=10)
-)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kidusshoa&theme=dracula)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananser&label=Profile%20views&color=0e75b6&style=flat" alt="ananser" /> </p>
+### 📫 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kidus-zekarias)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kidus_zekarias)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kidusshoa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidusshoa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kidusshoa&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusshoa&layout=compact&theme=radical&cache_seconds=1800&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kidusshoa&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Technologies I Use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
@@ -28,7 +35,3 @@ I'm a developer passionate about creating great user experiences and building ef
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-
-
-
