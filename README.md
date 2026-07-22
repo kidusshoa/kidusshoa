@@ -7,18 +7,6 @@ I'm a developer passionate about creating great user experiences and building ef
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kidus-zekarias)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kidus_zekarias)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kidusshoa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-![Ashutosh's GitHub Stats](https://github-readme-stats.api.ashutosh.dev/api?username=kidusshoa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.api.ashutosh.dev/api/top-langs/?username=kidusshoa&layout=compact&theme=radical&langs_count=10)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kidusshoa&theme=radical)
 
 ---
