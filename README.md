@@ -11,12 +11,19 @@ I'm a developer passionate about creating great user experiences and building ef
   <img src="https://komarev.com/ghpvc/?username=kidusshoa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidusshoa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kidusshoa&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusshoa&layout=compact&theme=radical&cache_seconds=1800&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kidusshoa&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-### Technologies I Use:
+### 📊 GitHub Activity & Stats
+
+![Ashutosh's GitHub Stats](https://github-readme-stats.api.ashutosh.dev/api?username=kidusshoa&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.api.ashutosh.dev/api/top-langs/?username=kidusshoa&layout=compact&theme=radical&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kidusshoa&theme=radical)
+
+---
+
+### 🛠️ Technologies I Use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=white)
