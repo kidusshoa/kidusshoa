@@ -2,6 +2,8 @@
 
 I'm a developer passionate about creating great user experiences and building efficient, scalable applications.
 
+And please understand that i work with governmental and private institutions that abide me to make a lot of repo private, i am working 7 days a week
+
 ### 📫 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kidus-zekarias)
